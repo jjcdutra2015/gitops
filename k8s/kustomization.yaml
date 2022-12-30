@@ -8,4 +8,4 @@ resources:
 images:
 - name: kotlinserver
   newName: jjcdutra/gitops
-  newTag: newTag
+  newTag: f72c33e4c09119e4aea571075a4ef93ac1005f33
